@@ -2,6 +2,7 @@
 
 ### examples for learning Java  9 modules
 
+[Original link](http://openjdk.java.net/projects/jigsaw/quick-start)
 
 Reminder for some commands:
 ```
