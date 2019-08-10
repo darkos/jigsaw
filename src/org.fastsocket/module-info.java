@@ -1,4 +1,4 @@
-import org.fastsocket.org.fastsocket.FastNetworkSocketProvider;
+import org.fastsocket.FastNetworkSocketProvider;
 
 module org.fastsocket {
     requires com.socket;
